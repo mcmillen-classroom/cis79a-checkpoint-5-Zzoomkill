@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="q_text">Shazam </string>
+    <string name="score">Your score:</string>
+
+    <string name="true_button">正解(True)</string>
+    <string name="false_button">错误(False)</string>
+
+    <string name="next_button">Next</string>
+
+    <string name="cheat_button">Cheat!!!</string>
+    <string name="cheat_warning">You gonna make this bored!</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_shame">CHEATERS NEVER WIN!</string>
+
+
+    //questions list
+    <string name="question_1">Human is the biggest BUG of the theory of evolution</string>
+    <string name="question_2">The Calculus you learn right now may not have the chance to use in an average CS major career</string>
+    <string name="question_3">All the stars we observed are running aways from Earth with speed of light</string>
+    <string name="question_4">The higher density, the slower time goes by</string>
+    <string name="question_5">Consciousness determines objective existence</string>
+    <string name="question_6">Who is the Mysterio? </string>
+    <string name="question_7">what will happened in 2045?</string>
+
+    //Question hints
+    <string name="question_1_hint">body hair is one of our most important part, and yet we seems lost most of it</string>
+    <string name="question_2_hint">when is the last time u used calculus since u graduated from college?</string>
+    <string name="question_3_hint">Just take a guess</string>
+    <string name="question_4_hint">It is simple physics</string>
+    <string name="question_5_hint">The way to be succeed in life, ur choice</string>
+    <string name="question_6_hint">Go watch the new spider man movie</string>
+    <string name="question_7_hint">guess</string>
+    <string name="check_button">Check</string>
+
+    <string-array name="question_6_answer">
+        <item>Jake Gyllenhaal</item>
+        <item>JakeGyllenhaal</item>
+        <item>spider man\'s new best friend</item>
+        <item>the "villains"</item>
+    </string-array>
+
+    <string-array name="question_7_answer">
+        <item>who knows</item>
+        <item>4 dimensional</item>
+        <item>2046</item>
+        <item>our form is change</item>
+    </string-array>
+
+
+</resources>
